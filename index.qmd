@@ -1,5 +1,5 @@
 ---
-title: "gracerinehart.github.io"
+title: Grace Rinehart
 ---
 
 This is a Quarto website.
