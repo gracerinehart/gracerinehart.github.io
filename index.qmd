@@ -1,10 +1,19 @@
 ---
 title: Grace Rinehart
-images: gracerinehart.github.io?meinsnow.jpeg
+image: meinsnow.jpeg
 about:
   template: trestles
   image-shape: round
-  image-width: 15em
+  image-width: 20em
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/gracerinehart
+    - icon: github
+      text: Github
+      href: https://github.com/gracerinehart
+    - text: Email
+      href: gracerin@colostate.edu 
 ---
 
 Hello! My name is Grace Rinehart, and I'm a 3rd year student at CSU. I'm majoring in Ecosystem Science and Sustainability with a minor in Restoration Ecology. I'm very passionate about the environment, and my ultimate goal is to help restore and protect ecosystems. I would describe myself as hardworking, collaborative, and kind. I want this site to serve as a place where I can show my professional and educational experiences. I hope that my site serves as a tool for future employers and colleagues to learn more about me and my skills.
