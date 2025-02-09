@@ -5,13 +5,17 @@ project:
 website:
   title: "Grace Rinehart"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - projects.qmd
-      - resume.qmd
-
+      - href: about.qmd
+      - href: projects.qmd
+      - href: resume.qmd
+  page-footer: 
+    background: light #
+    left: Copyright 2025, Grace Rinehart
+    right: This website is built with Github, R, and Quarto
+  
 format:
   html:
     theme: cosmo

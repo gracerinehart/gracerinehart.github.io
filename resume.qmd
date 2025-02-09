@@ -1,3 +1,5 @@
 ---
-title: Resume
+title: "Resume"
 ---
+
+![](images/Resume-07.pdf){fig-align="center" width="4in" height="6in"}

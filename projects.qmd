@@ -1,3 +1,7 @@
 ---
-title: Projects
+title: "Projects"
 ---
+
+In my 2025 Spring semester, I took an R based class called Quantitative Reasoning. In this class I learned how to code, analyze data, and do other cool computational things!
+
+## [Building a Project Website](https://gracerinehart.github.io/)
