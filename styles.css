@@ -1,1 +1,16 @@
-/* css styles */
+/*-- scss:defaults --*/
+
+// Colors
+$dusty-pink: #d27575;
+$cream: #f3efe8;
+$teal: #529b9c;
+$light-green: #9cba8f;
+$dusty-yellow: #eac392;
+
+// Base document colors
+$navbar-bg: $light-green;
+$navbar-fg: $cream;
+$navbar-hl: $dusty-yellow;
+$body-bg: $dusty-pink;
+$footer-bg: $light-green; 
+$link-color: $teal;
