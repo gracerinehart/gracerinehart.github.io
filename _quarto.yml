@@ -18,7 +18,7 @@ website:
   
 format:
   html:
-    theme: styles.scss
+    theme: cosmo
     toc: true
     page-layout: full
 
